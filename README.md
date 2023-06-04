@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align="right" width="320em" height="680em" src="https://raw.githubusercontent.com/gist/matheuspsiqueira/979d2c05789bb9d12c121d7dbd593c72/raw/535d75157aea55834719d5e5338d6bd9834587b1/cardlegal.svg">
 
-<!--
-**matheusSiqueiraDev2/matheusSiqueiraDev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Eu sou Matheus Siqueira</h1>
+  
+<a href="https://github.com/matheuspsiqueira">
+        <img width="500em" src="https://github-readme-stats.vercel.app/api?username=matheuspsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspsiqueira&layout=compact&langs_count=7&theme=dark"/>
+      </a>
 
-Here are some ideas to get you started:
+##
+<div style="display: inline_block">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="center" alt="Matheus-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-SCSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+</div>
+
+
+<div><br> 
+  <a href = "mailto:matheuspontessiqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-siqueira-755a4020a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/siqueiramt_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </div>
